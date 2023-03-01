@@ -1,0 +1,21 @@
+.tarjetaEstilos {
+    background: pink;
+    color: blue;
+    margin-bottom: 10px;
+    margin-top: -20px;
+    padding: 5px;
+}
+
+.tituloEstilos {
+    font-weight: lighter;
+}
+
+.bg-verde {
+    background-color: green;
+    color: white;
+}
+
+.bg-rojo {
+    background-color: red;
+    color: white;
+}
